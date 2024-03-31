@@ -1,0 +1,97 @@
+########################################
+# Program: needle
+# Rundate: Wed 27 Mar 2024 22:39:31
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240327-223928-0296-15675830-p1m.asequence
+#    -bsequence emboss_needle-I20240327-223928-0296-15675830-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: A
+# 2: AMY_PSEHA
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 682
+# Identity:     220/682 (32.3%)
+# Similarity:   299/682 (43.8%)
+# Gaps:         243/682 (35.6%)
+# Score: 1092.0
+# 
+#
+#=======================================
+
+A                  1 QFDTNYASGRSGMVHLFEWKWDDIAAECENFLGPNGYAGVQVSPVNENAV     50
+                             ..:..||||||.|.|:|.|||.:|||.|||.|||||.||:..
+AMY_PSEHA          1 --------TPTTFVHLFEWNWQDVAQECEQYLGPKGYAAVQVSPPNEHIT     42
+
+A                 51 KDSRPWWERYQPISYKLETRSGNEEQFASMVKRCNAVGVRTYVDVVFNHM    100
+                       ...||.||||:||:|::|.||..||..||.||:|.||..|||.:.|||
+AMY_PSEHA         43 --GSQWWTRYQPVSYELQSRGGNRAQFIDMVNRCSAAGVDIYVDTLINHM     90
+
+A                101 AADGGTYGTGGSTASPSSKSYPGVPYSSLDFNPTCAISNY---NDANEVR    147
+                     ||..|| ||.|:  |..:||:|  .||..||:.:|.|:|.   ||...|:
+AMY_PSEHA         91 AAGSGT-GTAGN--SFGNKSFP--IYSPQDFHESCTINNSDYGNDRYRVQ    135
+
+A                148 NCELVGLRDLNQGNSYVQDKVVEFLDHLIDLGVAGFRVDAAKHMWPADLA    197
+                     |||||||.||:..::|||:.:..:::.|..:||.|||.||:||:..:|:.
+AMY_PSEHA        136 NCELVGLADLDTASNYVQNTIAAYINDLQAIGVKGFRFDASKHVAASDIQ    185
+
+A                198 VIYGRLKNLNTDHGFASGSKAYIVQEVIDMGGEAISKSEYTGLGAITEFR    247
+                     .:..::          :||.. :.|||||.||||:..|||...|.:|||:
+AMY_PSEHA        186 SLMAKV----------NGSPV-VFQEVIDQGGEAVGASEYLSTGLVTEFK    224
+
+A                248 HSDSIGKVFRGKDQLQYLTNWGTAWGFAASDRSLVFVDNHDNQRGHGAGG    297
+                     :|..:|..|| ...|.:|:|:|..|||..|..::||||||||||||| |.
+AMY_PSEHA        225 YSTELGNTFR-NGSLAWLSNFGEGWGFMPSSSAVVFVDNHDNQRGHG-GA    272
+
+A                298 ADVLTYKVPKQYKMASAFMLAHPFGTPRVMSSFSF-TDTDQGPPTTDGHN    346
+                     .:|:|::..:.|.:|:.||||:|:|.|:||||:.| .|||.|.|....||
+AMY_PSEHA        273 GNVITFEDGRLYDLANVFMLAYPYGYPKVMSSYDFHGDTDAGGPNVPVHN    322
+
+A                347 IASPIFNSDNSC-SGGWVCEHRWRQIYNMVAFR-NTVGSDEIQNWWDNGS    394
+                           |.:..| :..|.|||||..|...|.|| ||..:..:.|||||.:
+AMY_PSEHA        323 ------NGNLECFASNWKCEHRWSYIAGGVDFRNNTADNWAVTNWWDNTN    366
+
+A                395 NQISFSRGSRGFVAFNNDNYDLNSSLQTGLPAGTYCDVISG--SKSGSSC    442
+                     |||||.|||.|.:|.|.::..|.:::||.:.:|.||:|:.|  |....||
+AMY_PSEHA        367 NQISFGRGSSGHMAINKEDSTLTATVQTDMASGQYCNVLKGELSADAKSC    416
+
+A                443 TGKTVTVGSDGRASINIGSSEDDGVLAIHVNAKL----------------    476
+                     :|:.:||.|||..::|||:.:   .:|||.||||                
+AMY_PSEHA        417 SGEVITVNSDGTINLNIGAWD---AMAIHKNAKLNTSSASSTESDWQRTV    463
+
+A                477 --------------------------------------------------    476
+                                                                       
+AMY_PSEHA        464 IFINAQTQSGQDMFIRGGIDHAYANANLGRNCQTSNFECAMPIRHNNLKN    513
+
+A                477 --------------------------------------------------    476
+                                                                       
+AMY_PSEHA        514 VTTSPWKANDNYLDWYGIENGQSSEAEGSATDWTTNVWPAGWGAEKTVNT    563
+
+A                477 --------------------------------------------------    476
+                                                                       
+AMY_PSEHA        564 DGFGVTPLNIWGEHYWMLDVDMDCSKAVNGWFELKAFIKNGQGWETAIAQ    613
+
+A                477 --------------------------------    476
+                                                     
+AMY_PSEHA        614 DNAPYTSTNHMAQCGKINKFEFNNSGVVIRSF    645
+
+
+#---------------------------------------
+#---------------------------------------

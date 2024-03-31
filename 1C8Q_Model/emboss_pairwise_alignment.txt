@@ -1,0 +1,97 @@
+########################################
+# Program: needle
+# Rundate: Thu 28 Mar 2024 01:34:04
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240328-013359-0321-67413533-p1m.asequence
+#    -bsequence emboss_needle-I20240328-013359-0321-67413533-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: A
+# 2: AMY_PSEHA
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 697
+# Identity:     225/697 (32.3%)
+# Similarity:   301/697 (43.2%)
+# Gaps:         254/697 (36.4%)
+# Score: 1051.5
+# 
+#
+#=======================================
+
+A                  1 YSSNTQQGRTSIVHLFEWRWVDIALECERYLAPKGFGGVQVSPPNENVAI     50
+                            ..|:.||||||.|.|:|.|||:||.|||:..||||||||    
+AMY_PSEHA          1 -------TPTTFVHLFEWNWQDVAQECEQYLGPKGYAAVQVSPPNE----     39
+
+A                 51 HNPFRPWWERYQPVSYKLCTRSGNEDEFRNMVTRCNNVGVRIYVDAVINH    100
+                     |.....||.|||||||:|.:|.||..:|.:||.||:..||.||||.:|||
+AMY_PSEHA         40 HITGSQWWTRYQPVSYELQSRGGNRAQFIDMVNRCSAAGVDIYVDTLINH     89
+
+A                101 MCGNAVSAGTSSTCGSYFNPGSRDFPAVPYSGWDFNDGKCKTGSGDIENY    150
+                     |   |..:|| .|.|:.|  |::.||.  ||..||:: .|...:.|..  
+AMY_PSEHA         90 M---AAGSGT-GTAGNSF--GNKSFPI--YSPQDFHE-SCTINNSDYG--    128
+
+A                151 NDATQVRDCRLSGLLDLALGKDYVRSKIAEYMNHLIDIGVAGFRIDASKH    200
+                     ||..:|::|.|.||.||....:||::.||.|:|.|..|||.|||.|||||
+AMY_PSEHA        129 NDRYRVQNCELVGLADLDTASNYVQNTIAAYINDLQAIGVKGFRFDASKH    178
+
+A                201 MWPGDIKAILDKLHNLNSNWFPEGSKPFIYQEVIDLGGEPIKSSDYFGNG    250
+                     :...||::::.|::         || |.::|||||.|||.:.:|:|...|
+AMY_PSEHA        179 VAASDIQSLMAKVN---------GS-PVVFQEVIDQGGEAVGASEYLSTG    218
+
+A                251 RVTEFKYGAKLGTVIRKWNGEKMSYLKNWGEGWGFMPSDRALVFVDNHDN    300
+                     .||||||..:||...|  || .:::|.|:|||||||||..|:||||||||
+AMY_PSEHA        219 LVTEFKYSTELGNTFR--NG-SLAWLSNFGEGWGFMPSSSAVVFVDNHDN    265
+
+A                301 QRGHGAGGASILTFWDARLYKMAVGFMLAHPYGFTRVMSSYRWPRYFENG    350
+                     ||||| |..:::||.|.|||.:|..||||:|||:.:|||||         
+AMY_PSEHA        266 QRGHG-GAGNVITFEDGRLYDLANVFMLAYPYGYPKVMSSY---------    305
+
+A                351 KDVNDWVGPPNDNGVTKEVTINPDTTC-GNDWVCEHRWRQIRNMVNFR-N    398
+                         |:.|..:..|....|..|.:..| .::|.|||||..|...|:|| |
+AMY_PSEHA        306 ----DFHGDTDAGGPNVPVHNNGNLECFASNWKCEHRWSYIAGGVDFRNN    351
+
+A                399 VVDGQPFTNWYDNGSNQVAFGRGNRGFIVFNNDDWTFSLTLQTGLPAGTY    448
+                     ..|....|||:||.:||::||||:.|.:..|.:|.|.:.|:||.:.:|.|
+AMY_PSEHA        352 TADNWAVTNWWDNTNNQISFGRGSSGHMAINKEDSTLTATVQTDMASGQY    401
+
+A                449 CDVISGDKING--NCTGIKIYVSDDGKAHFSISNSAEDPFIAIHAESKL-    495
+                     |:|:.|:....  :|:|..|.|:.||..:.:|  .|.|. :|||..:|| 
+AMY_PSEHA        402 CNVLKGELSADAKSCSGEVITVNSDGTINLNI--GAWDA-MAIHKNAKLN    448
+
+A                496 --------------------------------------------------    495
+                                                                       
+AMY_PSEHA        449 TSSASSTESDWQRTVIFINAQTQSGQDMFIRGGIDHAYANANLGRNCQTS    498
+
+A                496 --------------------------------------------------    495
+                                                                       
+AMY_PSEHA        499 NFECAMPIRHNNLKNVTTSPWKANDNYLDWYGIENGQSSEAEGSATDWTT    548
+
+A                496 --------------------------------------------------    495
+                                                                       
+AMY_PSEHA        549 NVWPAGWGAEKTVNTDGFGVTPLNIWGEHYWMLDVDMDCSKAVNGWFELK    598
+
+A                496 -----------------------------------------------    495
+                                                                    
+AMY_PSEHA        599 AFIKNGQGWETAIAQDNAPYTSTNHMAQCGKINKFEFNNSGVVIRSF    645
+
+
+#---------------------------------------
+#---------------------------------------
