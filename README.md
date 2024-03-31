@@ -1,4 +1,4 @@
-## Homology Modeling of Bacterial Extremophile Alpha-Amylase (1AQM)
+## Homology Modeling of Alpha-Amylase (1AQM)
 
 This repository details the investigation of a bacterial extremophile alpha-amylase from Pseudoalteromonas haloplanktis (1AQM) using homology modeling with Modller. The project explores the effectiveness of identifying a suitable template protein despite a potentially low sequence identity between the target and templates.
 
